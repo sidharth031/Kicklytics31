@@ -54,7 +54,17 @@ To run this project, you need to have the following requirements installed:
 - Roboflow==1.1.58
 - SciPy==1.14.0
 
+## Future Improvements
+- Enhance team assignment logic for better accuracy.
+- Improve ball possession detection using advanced algorithms.
+- Add support for real-time video processing.
+- Tracking speed and distance of players.
+- Useful in VAR technology.
+- Player pass count
+- Team ball control
 
+## Contact
+For any questions or feedback, please contact Sidharth Joshi at [Gmail](sidharthjoshi74@gmail.com) and [Linkedin](www.linkedin.com/in/sidharth-joshi-7b01a5205).
 
 
 
