@@ -14,7 +14,11 @@ This project analyzes football match videos to track players, assign teams, dete
 
 ## Output video
 
-https://github.com/user-attachments/assets/5e3e443b-865d-42d1-91dc-cbabafffacc7
+
+https://github.com/user-attachments/assets/fcb2c017-c33b-402c-a9af-57aad93aba1f
+
+
+
 
 
 
