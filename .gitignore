@@ -1,0 +1,5 @@
+# .gitignore
+*.pt
+*.avi
+*.mp4
+*.mov
