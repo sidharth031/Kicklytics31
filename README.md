@@ -31,7 +31,7 @@ This project analyzes football match videos to track players, assign teams, dete
   
 ## Trained Model
 - [Trained Yolo v5lu model](https://drive.google.com/file/d/1A4xofTlNuG2hxRY38u8rTKSMJIaVLCFL/view?usp=sharing)
-- [custom dataset](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1)
+- [Roboflow dataset](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1)
 
 ## Sample input video
 -  [Sample input video](https://drive.google.com/file/d/1LtXotImyfxwHYCu1vxPHkxL2SA2_FmPE/view?usp=sharing)
@@ -53,6 +53,44 @@ To run this project, you need to have the following requirements installed:
 - Pandas==2.2.2
 - Roboflow==1.1.58
 - SciPy==1.14.0
+
+
+## 🚀 **Getting Started**
+
+### ✅ **1. Clone the Repository**
+- First, clone the project repository to your local machine.
+- git clone https://github.com/sidharth031/Kicklytics31.git
+- cd Kicklytics31
+  
+### ✅ **2. Install Required Libraries**
+pip install -r requirements.txt
+
+### ✅ *3. Download YOLO Model*
+[Link to download](https://docs.ultralytics.com/models/yolo11/)
+
+### ✅ *4. Setup The Dataset*
+[Roboflow dataset , get your unique api key too](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1)
+
+### ✅ *5. Start training with this dataset*
+To get a model which i got as best.pt, which i dont train again and again as i have saved this model in pickle file.
+
+### ✅ *6. Start Running the project*
+1. Detect Players and the Ball
+2. Configure Model Parameters
+3. Train the AI Model
+4. Evaluate the AI Model
+5. Implement Object Tracking
+6. Color assignement for different team according to k means clustering
+7. Ball Interpolation
+8. Player Assign as per possesion of ball
+
+### ✅ *7. Finally run main project*
+  - Place your input video in the input_videos/ directory.
+  - Run the main script: python main.py
+  - The output video with annotations will be saved in the output_videos/ directory.
+
+
+
 
 ## Future Improvements
 - Enhance team assignment logic for better accuracy.
