@@ -7,7 +7,8 @@ This project analyzes football match videos to track players, assign teams, dete
 ![Screenshot 2025-03-29 235122](https://github.com/user-attachments/assets/20e58aa2-3adc-4607-858a-9d74453d3f03)
 
 ## Trained Model
-- [Trained Yolo v5lu model on custom dataset](https://drive.google.com/file/d/1A4xofTlNuG2hxRY38u8rTKSMJIaVLCFL/view?usp=sharing)
+- [Trained Yolo v5lu model](https://drive.google.com/file/d/1A4xofTlNuG2hxRY38u8rTKSMJIaVLCFL/view?usp=sharing)
+- [custom dataset](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1)
 
 ## Sample input video
 -  [Sample input video](https://drive.google.com/file/d/1LtXotImyfxwHYCu1vxPHkxL2SA2_FmPE/view?usp=sharing)
